@@ -5,7 +5,7 @@ This repository contains the work conducted for the thesis titled **"Method of I
 ## Repository Contents:
 
 ### 1. **Group Convolution Part**
-- **`regular_group_convolutions_gr.ipynb`**: A Python notebook implementing a \( C_4 \)-equivariant model for digit recognition.
+- **`regular_group_convolutions_gr.ipynb`**: A Python notebook implementing a  $C_4$-equivariant model for digit recognition.
 
 ### 2. **Digit Recognition on EK-RA8D1 Part**
 - **`diploma_quant`**: Folder containing the application files for the e² studio.  
