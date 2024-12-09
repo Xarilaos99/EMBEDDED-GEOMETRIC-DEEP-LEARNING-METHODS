@@ -1,4 +1,4 @@
-# METHOD OF INTEGRATED GEOMETRIC DEEP LEARNING
+# EMBEDDED GEOMETRIC DEEP LEARNING METHODS
 
 This repository contains the work conducted for the thesis titled **"Method of Integrated Geometric Deep Learning"**. It provides all the necessary files for the development of a fully functional system built around the EK-RA8D1 evaluation kit for digit recognition, as well as a base project for creating a Group Convolutional Neural Network using Python notebooks.
 
